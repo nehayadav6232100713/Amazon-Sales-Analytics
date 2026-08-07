@@ -17,3 +17,15 @@ To analyze Amazon sales data and build an interactive dashboard that supports da
 ## Note
 
 The complete Excel workbook and raw dataset are available on request due to GitHub's web upload file size limitation (25 MB).
+
+## Dashboard Preview
+
+Below are screenshots of the interactive Power BI dashboard created for this project.
+
+### Dashboard 1
+
+![Dashboard 1](Images/Power%20BI%20Image%201.png)
+
+### Dashboard 2
+
+![Dashboard 2](Images/Power%20BI%20Image%202.png)
