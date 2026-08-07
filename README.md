@@ -13,3 +13,7 @@ This project demonstrates an end-to-end Business Analytics workflow using Micros
 ## Project Objective
 
 To analyze Amazon sales data and build an interactive dashboard that supports data-driven business decision-making.
+
+## Note
+
+The complete Excel workbook and raw dataset are available on request due to GitHub's web upload file size limitation (25 MB).
