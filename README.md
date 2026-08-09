@@ -26,4 +26,4 @@ Below are screenshots of the Power BI dashboard created for this project.
 ![Power BI Dashboard 1]([powerbi iamge 1.png](https://github.com/nehayadav6232100713/Amazon-Sales-Analytics/blob/main/image/powerbi%20iamge%201.png))
 
 ### Dashboard 2
-![Power BI Dashboard 2](powerbi image 2.png )
+![Power BI Dashboard 2]([powerbi image 2.png](https://github.com/nehayadav6232100713/Amazon-Sales-Analytics/blob/main/image/powerbi%20image%202.png) )
