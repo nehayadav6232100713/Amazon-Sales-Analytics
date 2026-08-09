@@ -20,12 +20,10 @@ The complete Excel workbook and raw dataset are available on request due to GitH
 
 ## Dashboard Preview
 
-Below are screenshots of the interactive Power BI dashboard created for this project.
+Below are screenshots of the Power BI dashboard created for this project.
 
 ### Dashboard 1
-
-![Dashboard 1](Images/Power%20BI%20Image%201.png)
+![Power BI Dashboard 1](Images/Power%20BI%20Image%201.png)
 
 ### Dashboard 2
-
-![Dashboard 2](Images/Power%20BI%20Image%202.png)
+![Power BI Dashboard 2](Images/Power%20BI%20Image%202.png)
